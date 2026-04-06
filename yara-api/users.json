@@ -5,5 +5,68 @@
     "email": "gabirelmartins@acad.ifma.edu.br",
     "senha": "$2b$10$GkOgbOjT70y2ZiVxDtoAD.YMz1lhZR0XIW17zAmfJSYukxHB./Zoq",
     "role": "user"
+  },
+  {
+    "id": 1775507327552,
+    "nome": "joõa",
+    "email": "gabirelmartins@gmail.com",
+    "senha": "$2b$10$OjB6isY66cs9yqij/w6ioeU2EaAiitDIxHezQ/bdCNMXAG62ey7UG",
+    "role": "user"
+  },
+  {
+    "id": 1775507591201,
+    "nome": "antonio",
+    "email": "haotao@acad.ifma.edu.br",
+    "senha": "$2b$10$c8C.1xZw34uNck9F6LnGheb.6l9KMBKktP9j4X7OA7skX2S4/tGXu",
+    "role": "user"
+  },
+  {
+    "id": 1775507783338,
+    "nome": "gabriel martins ",
+    "email": "gabiddddrtins@hotmail.com",
+    "senha": "$2b$10$Yzaf65e4svJebSRlBzYDFOkayEDeIg5v51IxcfQ7VtORN2RbEOIyy",
+    "role": "user"
+  },
+  {
+    "id": 1775508086681,
+    "nome": "joaquim",
+    "email": "opincie@gmail.com",
+    "senha": "$2b$10$588dbNbbWX3ADmXuVGoudewN7ev.09HwPHz3N/fjaoMVDBd8mW9Dq",
+    "role": "user"
+  },
+  {
+    "id": 1775508357594,
+    "nome": "joaquimdd",
+    "email": "youtube@gmail.com",
+    "senha": "$2b$10$7M8msIHLGQjaYiOhrdKCyuU2oRwNxEzhxiZt0QhwSyK6fKi87OyLC",
+    "role": "user"
+  },
+  {
+    "id": 1775508637251,
+    "nome": "tarcio",
+    "email": "tarcio@hotmail.com",
+    "senha": "$2b$10$jCm5Yy7p1c1CgHlzM3FgseMtCOVmx3EJpu4Upc0DAMwHm4LQqEiwC",
+    "role": "user"
+  },
+  {
+    "id": 1775508846815,
+    "nome": "joaquimddfrg",
+    "email": "joaquimddfrg@hotmail.com",
+    "senha": "$2b$10$MOnl5wvFiNxSWF6GEjV7aOc9mGhVXyFE4oaprMRxf88bFkHCSI/TG",
+    "role": "user"
+  },
+  {
+    "id": 1775508954301,
+    "nome": "joel",
+    "email": "joel@hotmail.com",
+    "senha": "$2b$10$VqExYaSWawxqJoCN4pXYwOAsNglKpt3V/tPxTzqDpj5E9rb4E3jwe",
+    "role": "user"
+  },
+  {
+    "id": 1775509119229,
+    "nome": "joap",
+    "email": "joelinton@gmail.com",
+    "senha": "$2b$10$fM4Ra2X2YZPtDavedK03AeyHplslnerCu7SZ3CRmr67cgEnHmbOS6",
+    "role": "user"
   }
 ]
